@@ -16,7 +16,7 @@
 
 # 制作大纲
 
-![image-20201002163139582](https://img-blog.csdnimg.cn/20201002170110499.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzQ2NTIxNzg1,size_16,color_FFFFFF,t_70#pic_cente)
+![制作大纲](https://img-blog.csdnimg.cn/20201002170110499.png)
 
 # √基本的vim界面
 
