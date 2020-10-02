@@ -16,7 +16,7 @@
 
 # 制作大纲
 
-![制作大纲](https://img-blog.csdnimg.cn/20201002170110499.png)
+见地址：https://img-blog.csdnimg.cn/20201002170110499.png
 
 # √基本的vim界面
 
